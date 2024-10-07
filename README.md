@@ -6,6 +6,6 @@ Data Scientist @ Holding Bourjon Investment
 -ai team lead 
 -
 
-### Porjects 
+### Projects 
 ASP (Chatbot for Public service at Benin)
 -Data Scientist 
