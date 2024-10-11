@@ -1,6 +1,7 @@
 # AI SCIENTIST 
 ### Education
 CS Ste BAKHITA
+INSTITUT DE FORMATION ET DE RECHERCHE EN INFORMATIQUE 
 
 ### Work Experience 
 Data Scientist @ Holding Bourjon Investment 
@@ -19,6 +20,8 @@ AudiBot
 
 AfriCanTalk (To undestand language Signs)
 
+Fongbe Translation 
+
 Breast cancer classification
 
 Vocal assistant
@@ -27,12 +30,23 @@ Trashbox detection
 
 Motion detection
 
+Facial Detection
+
 Clustering from scratch 
 
 Text_to_Speech 
 
+StopWords from scratch 
+
+Text Processing 
+
+### LANGUAGES
+French 
+English 
 
 
 
--Data Scientist 
--
+
+
+ 
+
