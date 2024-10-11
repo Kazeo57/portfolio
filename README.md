@@ -1,11 +1,10 @@
 # AI SCIENTIST 
 ### Education
+CS Ste BAKHITA
 
 ### Work Experience 
 Data Scientist @ Holding Bourjon Investment 
-
--ai team lead 
--
+AI Team Lead   @ Holding Bourjon Investment
 
 ### Projects
 Image Processing
