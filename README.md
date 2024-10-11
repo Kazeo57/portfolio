@@ -8,29 +8,29 @@ Data Scientist @ Holding Bourjon Investment
 -
 
 ### Projects
--Image Processing
+Image Processing
   
--DogVsCat(classifying 37 species of dogs and cats)
+DogVsCat(classifying 37 species of dogs and cats)
 
--ASP (Chatbot for Public service at Benin) 
+ASP (Chatbot for Public service at Benin) 
 
--Insu
+Insu
 
--AudiBot
+AudiBot
 
--AfriCanTalk (To undestand language Signs)
+AfriCanTalk (To undestand language Signs)
 
--Breast cancer classification
+Breast cancer classification
 
--Vocal assistant
+Vocal assistant
 
--Trashbox detection
+Trashbox detection
 
--Motion detection
+Motion detection
 
--Clustering from scratch 
+Clustering from scratch 
 
--Text_to_Speech 
+Text_to_Speech 
 
 
 
