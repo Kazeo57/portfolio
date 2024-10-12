@@ -1,8 +1,8 @@
 # AI SCIENTIST 
 - **Email:** johanneshyz@gmail.com
 - **Phone:** +229 59074669
-- **LinkedIn:** [Johannes](https://www.linkedin.com/in/johannes-hounton-a87954271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **GitHub:** [Johannes](https://github.com/Kazeo57)
+- **LinkedIn:** [Johannes HOUNTON](https://www.linkedin.com/in/johannes-hounton-a87954271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **GitHub:** [Kazeo57](https://github.com/Kazeo57)
 
 ## About me
 
