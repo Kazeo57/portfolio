@@ -4,6 +4,7 @@
 - **LinkedIn:** [Johannes HOUNTON](https://www.linkedin.com/in/johannes-hounton-a87954271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **GitHub:** [Kazeo57](https://github.com/Kazeo57)
 - **X:** [Johannes_hyz](https://x.com/Johannes_hyz?t=uvBgfI2sFK9_n2_NL0oaCQ&s=09)
+-  **Discord:** Johannes_02085
 
 ## About me
 Just develop? No I'm more in research,continuous increasing,build AI system whatever ressources this is my goal ,every day.I'm know and I use the all basic Machine Learning algorithms but I prefer neural network throughout Language processing and Image Processing.Each work is a challenge for me and I want to do better every time.AI like we know today will change and I want to someone who can take the responsibility to lead this generation.
