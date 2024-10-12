@@ -18,7 +18,7 @@ Just develop? No I'm more in research,continuous increasing,build AI system what
 - **AI Team Lead   @ Holding Bourjon Investment**
 
 ## Projects
-**Image Processing**
+**Image Processing :**A little project on matrix use case and image processing to build some filters to extract information or process image.
   
 **DogVsCat(classifying 37 species of dogs and cats) :**
 *This my last classification project which I must train a model to classify 37 species of Cat and Dog.Funally I passed the 0,85 accuracy with a loss less of 0,5*
