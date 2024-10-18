@@ -18,6 +18,8 @@ Just develop? No I'm more in research,continuous increasing,build AI system what
 - **AI Team Lead   @ Holding Bourjon Investment**
 
 ## Projects
+**SkinLesionFind :** A project on ilage segmentation based on skin lesion.
+
 **Image Processing :**A little project on matrix use case and image processing to build some filters to extract information or process image.
   
 **DogVsCat(classifying 37 species of dogs and cats) :**
