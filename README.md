@@ -15,12 +15,20 @@ Just develop? No I'm more in research,continuous increasing,build AI system what
 
 ## Work Experience 
 - **Data Scientist @ Holding Bourjon Investment**
-- **AI Team Lead   @ Holding Bourjon Investment**
+- **Data Scientist  @ Bivariant**
 
 ## Projects
-**SkinLesionFind :** A project on ilage segmentation based on skin lesion.
 
-**Image Processing :**A little project on matrix use case and image processing to build some filters to extract information or process image.
+**Audio Processing :** A set of project to process audio and extract voice features.
+ With librosa and sounfile I built some analysis project to master in voice processing and feature extraction to improve ASR and  voice synthesis performance.I dive into Deeep Learning architecture especially in attention mechanism, Encoder, CTC like architectures, and many others. My recents work reshape low ressource GPU environment with optimizer.
+
+ **Stroke segmentation***: For 7 months, my team and I worked on stroke detection algorithm on CT san Image which allow me to propose a double level solution. With DL Unet using pretrained layers of classification task from many models of zoo work in tensorflow to do a domain-activation architectures for segmentation, we divide brain in for vascular area which are responsible of some motions ou activities on body and we've prove efficiency in low ressource dataset. After that, I proposed Chan-Vese approach to find hypodensity part in each brain area and make a diagnosis.
+
+ **DL master** : From end of 2024 to 2025, I follow some course on sequence model and attention mechanism on Coursera where a built many project of translation, Language modeling, probabilist traditional model and Vector Space works.
+ 
+**SkinLesionFind :** A project on image segmentation based on skin lesion.
+
+**Image Processing :** A little project on matrix use case and image processing to build some filters to extract information or process image.
   
 **DogVsCat(classifying 37 species of dogs and cats) :**
 *This my last classification project which I must train a model to classify 37 species of Cat and Dog.Funally I passed the 0,85 accuracy with a loss less of 0,5*
