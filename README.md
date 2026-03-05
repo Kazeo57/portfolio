@@ -19,10 +19,10 @@ Just develop? No I'm more in research,continuous increasing,build AI system what
 
 ## Projects
 
-**Audio Processing :** A set of project to process audio and extract voice features.
- With librosa and sounfile I built some analysis project to master in voice processing and feature extraction to improve ASR and  voice synthesis performance.I dive into Deeep Learning architecture especially in attention mechanism, Encoder, CTC like architectures, and many others. My recents work reshape low ressource GPU environment with optimizer.
+**Audio Processing :** A set of projects to process audio and extract voice features.
+ With librosa and soundfile I built some analysis project to master in voice processing and feature extraction to improve ASR and  voice synthesis performance.I dive into Deeep Learning architecture especially in attention mechanism, Encoder, CTC like architectures, and many others. My recents work reshape low ressource GPU environment with optimizer.
 
- **Stroke segmentation***: For 7 months, my team and I worked on stroke detection algorithm on CT san Image which allow me to propose a double level solution. With DL Unet using pretrained layers of classification task from many models of zoo work in tensorflow to do a domain-activation architectures for segmentation, we divide brain in for vascular area which are responsible of some motions ou activities on body and we've prove efficiency in low ressource dataset. After that, I proposed Chan-Vese approach to find hypodensity part in each brain area and make a diagnosis.
+ **Stroke segmentation***: For 7 months, my team and I worked on stroke detection algorithm on CT san Image which allow me to propose a double level solution. With DL Unet using pretrained layers of classification task from many models of zoo work in tensorflow to do a domain-adzptation architectures for segmentation, we divide brain in for vascular area which are responsible of some motions ou activities on body and we've prove efficiency in low ressource dataset. After that, I proposed Chan-Vese approach to find hypodensity part in each brain area and make a diagnosis.
 
  **DL master** : From end of 2024 to 2025, I follow some course on sequence model and attention mechanism on Coursera where a built many project of translation, Language modeling, probabilist traditional model and Vector Space works.
  
