@@ -1,90 +1,85 @@
-# AI SCIENTIST   [![Blog](https://img.shields.io/badge/📚-Technical%20Blog-blue?style=for-the-badge)](./blog)
-- **Email:** johanneshyz@gmail.com
-- **Phone:** +229 0159074669
-- **LinkedIn:** [Johannes HOUNTON](https://www.linkedin.com/in/johannes-hounton-a87954271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **GitHub:** [Kazeo57](https://github.com/Kazeo57)
-- **X:** [Johannes_hyz](https://x.com/Johannes_hyz?t=uvBgfI2sFK9_n2_NL0oaCQ&s=09)
--  **Discord:** Johannes_02085
-
-## About me
-Just develop? No I'm more in research,continuous increasing,build AI system whatever ressources this is my goal ,every day.I'm know and I use the all basic Machine Learning algorithms but I prefer neural network throughout Language processing and Image Processing.Each work is a challenge for me and I want to do better every time.AI like we know today will change and I want to someone who can take the responsibility to lead this generation.
-
-
-
-## Education
-- **CS Ste BAKHITA**
-- **INSTITUT DE FORMATION ET DE RECHERCHE EN INFORMATIQUE: Artificial Intelligence** 
-
-## Work Experience 
-- **Data Scientist @ Holding Bourjon Investment**
-- **Data Scientist  @ Bivariant**
-
-## Projects
-
-**Audio Processing :** A set of projects to process audio and extract voice features.
- With librosa and soundfile I built some analysis project to master in voice processing and feature extraction to improve ASR and  voice synthesis performance.I dive into Deeep Learning architecture especially in attention mechanism, Encoder, CTC like architectures, and many others. My recents work reshape low ressource GPU environment with optimizer.
-
- **Stroke segmentation***: For 7 months, my team and I worked on stroke detection algorithm on CT san Image which allow me to propose a double level solution. With DL Unet using pretrained layers of classification task from many models of zoo work in tensorflow to do a domain-adzptation architectures for segmentation, we divide brain in for vascular area which are responsible of some motions ou activities on body and we've prove efficiency in low ressource dataset. After that, I proposed Chan-Vese approach to find hypodensity part in each brain area and make a diagnosis.
-
- **DL master** : From end of 2024 to 2025, I follow some course on sequence model and attention mechanism on Coursera where a built many project of translation, Language modeling, probabilist traditional model and Vector Space works.
- 
-**SkinLesionFind :** A project on image segmentation based on skin lesion.
-
-**Image Processing :** A little project on matrix use case and image processing to build some filters to extract information or process image.
-  
-**DogVsCat(classifying 37 species of dogs and cats) :**
-*This my last classification project which I must train a model to classify 37 species of Cat and Dog.Funally I passed the 0,85 accuracy with a loss less of 0,5*
-
-**ASP (Chatbot for Public service at Benin) :** 
-*This a NLP project which I used a RAG to build an intelligent system answering to question s of users on public services at Benin.*
-
-**Insu :**
-*A small RAG project including a regression studies on medical Insurance to predict insurance and do advice.An agentic RAG have been used to build it.*
-
-**AudiBot :**
-*This a small RAG project answering to question about selling .This is also a hackathon of Indaba Ghana which I have tryed with my teammates.*
-
-**AfriCanTalk (To undestand language Signs) :**
-*This is a project to translate language sign in African language.*
-
-**Fongbe Translation :**
-*With fairseq,I build a model that can translate some french words in fongbe.*
-
-**Breast cancer classification :**
-*A platform build with Flask and tensorflow to classify degree of cancer and predict before that it attacks patients.*
-**Vocal assistant :**
-*A small project which I can ask hours to my Vomputer and it answer me,I can also ask a music or ilage on Pinterest.I have added a voice to assistant to response me.*
-
-**Trashbox detection :**
-*With my teammates,I developed a detection model to find trashbox ,color to allow to a robot to put the correct garbage in correct trashbox*
-
-**Motion detection :**
-*This is a computer Vision project based on opencv to track motion on a video.*
-
-**Facial Detection :**
-*A project to identify  people with a commaprison of image in input and a image of people on database*
-
-**Clustering from scratch :**
-*I bulnd a Clustering algorith from scratch to classify Irsis flowers*
-
-**Text_to_Speech :** 
-*I had written a script to pass text to audio*
-
-**StopWords from scratch :**
-*When I did my initiation in NLP ,I have learn how build a stopwords and their meaning in Language field.*
-
-**Text Processing :**
-*This is a whole of work to ckean text in NLP field*
-
-## LANGUAGES
-French 
-English 
-
-
-
-
-
-
-
- 
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="refresh" content="8;url=https://kazeo57.github.io/">
+  <title>Johannes Hounton — Portfolio déplacé</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: #f7f6f2;
+      color: #1a1917;
+      font-family: -apple-system, sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      text-align: center;
+      padding: 2rem;
+    }
+    .card {
+      max-width: 480px;
+    }
+    .label {
+      font-size: 0.75rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: #6b6860;
+      margin-bottom: 1.5rem;
+    }
+    h1 {
+      font-size: 1.5rem;
+      font-weight: 500;
+      line-height: 1.4;
+      margin-bottom: 1rem;
+      color: #1a1917;
+    }
+    p {
+      font-size: 0.9rem;
+      color: #6b6860;
+      line-height: 1.7;
+      margin-bottom: 2rem;
+    }
+    a.btn {
+      display: inline-block;
+      background: #2c5f8a;
+      color: #fff;
+      padding: 0.65rem 1.5rem;
+      border-radius: 5px;
+      font-size: 0.9rem;
+      font-weight: 500;
+      text-decoration: none;
+    }
+    a.btn:hover { background: #1e4a6e; }
+    .countdown {
+      margin-top: 1.5rem;
+      font-size: 0.78rem;
+      color: #6b6860;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="label">Johannes Hounton</div>
+    <h1>This portfolio has been updated.</h1>
+    <p>The content is now available at a new address. You will be redirected automatically.</p>
+    <a class="btn" href="https://kazeo57.github.io/">Accéder au nouveau portfolio →
+    </a>
+    <div class="countdown">Automatic redirect in <span id="n">8</span> seconds...
+    </div>
+  </div>
+  <script>
+    let n = 8;
+    const el = document.getElementById('n');
+    const t = setInterval(() => {
+      n--;
+      el.textContent = n;
+      if (n <= 0) {
+        clearInterval(t);
+        window.location.href = 'https://kazeo57.github.io/';
+      }
+    }, 1000);
+  </script>
+</body>
+</html>
